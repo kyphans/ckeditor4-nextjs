@@ -12,7 +12,7 @@ export default function Editor() {
   };
 
   const configEditor = {
-    language: 'ko',
+    language: 'en',
     height: 600,
     resize_enabled: false,
     allowedContent: true,
